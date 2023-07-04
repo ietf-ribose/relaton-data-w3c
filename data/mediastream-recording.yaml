@@ -33,16 +33,6 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-mediastream-recording-20130205
-    docid:
-    - id: W3C WD-mediastream-recording-20130205
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-mediastream-recording-20130205
-      format: text/plain
-- type: hasEdition
-  bibitem:
     id: W3CWD-mediastream-recording-20170621
     docid:
     - id: W3C WD-mediastream-recording-20170621
@@ -50,6 +40,16 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-mediastream-recording-20170621
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-mediastream-recording-20130205
+    docid:
+    - id: W3C WD-mediastream-recording-20130205
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-mediastream-recording-20130205
       format: text/plain
 - type: hasEdition
   bibitem:

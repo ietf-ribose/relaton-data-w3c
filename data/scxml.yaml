@@ -43,13 +43,33 @@ relation:
       format: text/plain
 - type: hasEdition
   bibitem:
-    id: W3CWD-scxml-20140529
+    id: W3CWD-scxml-20101216
     docid:
-    - id: W3C WD-scxml-20140529
+    - id: W3C WD-scxml-20101216
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-scxml-20140529
+      content: W3C WD-scxml-20101216
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20130801
+    docid:
+    - id: W3C WD-scxml-20130801
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20130801
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20121206
+    docid:
+    - id: W3C WD-scxml-20121206
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20121206
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -60,6 +80,36 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-scxml-20070221
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20080516
+    docid:
+    - id: W3C WD-scxml-20080516
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20080516
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20140529
+    docid:
+    - id: W3C WD-scxml-20140529
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20140529
+      format: text/plain
+- type: hasEdition
+  bibitem:
+    id: W3CWD-scxml-20060124
+    docid:
+    - id: W3C WD-scxml-20060124
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C WD-scxml-20060124
       format: text/plain
 - type: hasEdition
   bibitem:
@@ -80,56 +130,6 @@ relation:
       primary: true
     formattedref:
       content: W3C WD-scxml-20110426
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20101216
-    docid:
-    - id: W3C WD-scxml-20101216
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20101216
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20121206
-    docid:
-    - id: W3C WD-scxml-20121206
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20121206
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20130801
-    docid:
-    - id: W3C WD-scxml-20130801
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20130801
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20080516
-    docid:
-    - id: W3C WD-scxml-20080516
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20080516
-      format: text/plain
-- type: hasEdition
-  bibitem:
-    id: W3CWD-scxml-20060124
-    docid:
-    - id: W3C WD-scxml-20060124
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C WD-scxml-20060124
       format: text/plain
 series:
 - title:
