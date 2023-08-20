@@ -3257,12 +3257,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -14883,8 +14883,8 @@
   :file: data/vc-di-ecdsa.yaml
 - :code: vc-di-ecdsa
   :stage: WD
-  :date: '20230817'
-  :file: data/wd-vc-di-ecdsa-20230817.yaml
+  :date: '20230819'
+  :file: data/wd-vc-di-ecdsa-20230819.yaml
 - :code: vc-di-eddsa
   :file: data/vc-di-eddsa.yaml
 - :code: vc-di-eddsa
