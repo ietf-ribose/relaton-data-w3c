@@ -38,6 +38,56 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
+    id: W3C_-g32553800
+    docid:
+    - id: W3C _:g32553800
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g32553800
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g32553820
+    docid:
+    - id: W3C _:g32553820
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g32553820
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g32553840
+    docid:
+    - id: W3C _:g32553840
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g32553840
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g32553880
+    docid:
+    - id: W3C _:g32553880
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g32553880
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g32553900
+    docid:
+    - id: W3C _:g32553900
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g32553900
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3C_-g32553920
     docid:
     - id: W3C _:g32553920
@@ -45,16 +95,6 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g32553920
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g32553940
-    docid:
-    - id: W3C _:g32553940
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g32553940
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -68,16 +108,6 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g32553980
-    docid:
-    - id: W3C _:g32553980
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g32553980
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g32554000
     docid:
     - id: W3C _:g32554000
@@ -85,36 +115,6 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g32554000
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g32554020
-    docid:
-    - id: W3C _:g32554020
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g32554020
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g32554060
-    docid:
-    - id: W3C _:g32554060
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g32554060
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g32554100
-    docid:
-    - id: W3C _:g32554100
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g32554100
       format: text/plain
 - type: obsoletes
   bibitem:
