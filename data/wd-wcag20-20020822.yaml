@@ -68,73 +68,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g32599600
+    id: W3C_-g5365920
     docid:
-    - id: W3C _:g32599600
+    - id: W3C _:g5365920
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g32599600
+      content: W3C _:g5365920
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g32599620
+    id: W3C_-g5365940
     docid:
-    - id: W3C _:g32599620
+    - id: W3C _:g5365940
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g32599620
+      content: W3C _:g5365940
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g32599640
+    id: W3C_-g5365960
     docid:
-    - id: W3C _:g32599640
+    - id: W3C _:g5365960
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g32599640
+      content: W3C _:g5365960
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g32599660
+    id: W3C_-g5365980
     docid:
-    - id: W3C _:g32599660
+    - id: W3C _:g5365980
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g32599660
+      content: W3C _:g5365980
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g32599700
+    id: W3C_-g5366020
     docid:
-    - id: W3C _:g32599700
+    - id: W3C _:g5366020
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g32599700
+      content: W3C _:g5366020
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g32599740
+    id: W3C_-g5366060
     docid:
-    - id: W3C _:g32599740
+    - id: W3C _:g5366060
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g32599740
+      content: W3C _:g5366060
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g32599780
+    id: W3C_-g5366100
     docid:
-    - id: W3C _:g32599780
+    - id: W3C _:g5366100
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g32599780
+      content: W3C _:g5366100
       format: text/plain
 - type: obsoletes
   bibitem:
