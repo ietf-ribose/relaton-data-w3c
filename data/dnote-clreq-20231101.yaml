@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-xhtml-access-20080526
+id: W3CDNOTE-clreq-20231101
 title:
-- content: XHTML Access Module
+- content: Requirements for Chinese Text Layout - 中文排版需求
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2008/WD-xhtml-access-20080526
+- content: https://www.w3.org/TR/2023/DNOTE-clreq-20231101/
   type: src
+- content: https://www.w3.org/International/clreq/
+  type: current
 type: standard
 docid:
-- id: W3C WD-xhtml-access-20080526
+- id: W3C DNOTE-clreq-20231101
   type: W3C
   primary: true
-docnumber: WD-xhtml-access-20080526
+docnumber: DNOTE-clreq-20231101
 date:
 - type: published
-  value: '2008-05-26'
+  value: '2023-11-01'
 contributor:
 - person:
     name:
       completename:
-        content: Mark Birbeck
+        content: Bobby Tung
         language:
         - en
         script:
@@ -30,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Richard Schwerdtfeger
+        content: Eric Q LIU
         language:
         - en
         script:
@@ -40,7 +42,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Shane McCarron
+        content: Fuqiao Xue
         language:
         - en
         script:
@@ -50,7 +52,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Steven Pemberton
+        content: Hui Jing Chen
         language:
         - en
         script:
@@ -60,40 +62,56 @@ contributor:
 - person:
     name:
       completename:
-        content: T. V. Raman
+        content: Richard Ishida
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2008-05-26'
+- person:
+    name:
+      completename:
+        content: Yijun Chen
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+- person:
+    name:
+      completename:
+        content: Zhengyu Qian
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2023-11-01'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-xhtml-access-20080107
+    id: W3CDNOTE-clreq-20230901
     docid:
-    - id: W3C WD-xhtml-access-20080107
+    - id: W3C DNOTE-clreq-20230901
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-xhtml-access-20080107
+      content: W3C DNOTE-clreq-20230901
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-xhtml-access-20080526
-doctype: technicalReport
+  number: DNOTE-clreq-20231101
+doctype: groupNote
 editorialgroup:
-- name: XHTML2 Working Group
-- name: User Agent Accessibility Guidelines Working Group
+- name: Internationalization Working Group
 ext:
   schema-version: v1.0.0
