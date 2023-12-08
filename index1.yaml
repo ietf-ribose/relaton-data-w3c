@@ -26414,11 +26414,6 @@
     :date: '20231011'
   :file: data/wd-mediasession-20231011.yaml
 - :id:
-    :code: webrtc-encoded-transform
-    :stage: WD
-    :date: '20231012'
-  :file: data/wd-webrtc-encoded-transform-20231012.yaml
-- :id:
     :code: contact-picker
     :stage: WD
     :date: '20231013'
@@ -26908,6 +26903,11 @@
     :stage: CRD
     :date: '20231207'
   :file: data/crd-gyroscope-20231207.yaml
+- :id:
+    :code: webrtc-encoded-transform
+    :stage: WD
+    :date: '20231207'
+  :file: data/wd-webrtc-encoded-transform-20231207.yaml
 - :id:
     :code: vc-di-bbs
     :stage: WD
