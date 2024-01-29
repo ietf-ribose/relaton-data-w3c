@@ -88,63 +88,13 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g954040
+    id: W3C_-g954200
     docid:
-    - id: W3C _:g954040
+    - id: W3C _:g954200
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g954040
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g954060
-    docid:
-    - id: W3C _:g954060
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g954060
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g954080
-    docid:
-    - id: W3C _:g954080
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g954080
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g954100
-    docid:
-    - id: W3C _:g954100
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g954100
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g954140
-    docid:
-    - id: W3C _:g954140
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g954140
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g954180
-    docid:
-    - id: W3C _:g954180
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g954180
+      content: W3C _:g954200
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -155,6 +105,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g954220
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g954240
+    docid:
+    - id: W3C _:g954240
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g954240
       format: text/plain
 - type: obsoletes
   bibitem:
@@ -195,6 +155,46 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g954380
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g954420
+    docid:
+    - id: W3C _:g954420
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g954420
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g954460
+    docid:
+    - id: W3C _:g954460
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g954460
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g954500
+    docid:
+    - id: W3C _:g954500
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g954500
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g954540
+    docid:
+    - id: W3C _:g954540
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g954540
       format: text/plain
 - type: obsoletes
   bibitem:
