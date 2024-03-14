@@ -48,66 +48,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g6515720
-    docid:
-    - id: W3C _:g6515720
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6515720
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6515740
-    docid:
-    - id: W3C _:g6515740
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6515740
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6515760
-    docid:
-    - id: W3C _:g6515760
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6515760
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6515780
-    docid:
-    - id: W3C _:g6515780
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6515780
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6515820
-    docid:
-    - id: W3C _:g6515820
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6515820
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g6515860
-    docid:
-    - id: W3C _:g6515860
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g6515860
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3CWD-soap12-af-20020814
     docid:
     - id: W3C WD-soap12-af-20020814
@@ -122,5 +62,7 @@ series:
     format: text/plain
   number: WD-soap12-af-20020924
 doctype: technicalReport
+editorialgroup:
+- name: XML Protocol Working Group
 ext:
   schema-version: v1.0.0
