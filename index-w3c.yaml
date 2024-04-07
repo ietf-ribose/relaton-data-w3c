@@ -3313,12 +3313,12 @@
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :suff: fonts
-  :file: data/rec-css2-19980512_fonts.yaml
+  :file: data/rec-css2-19980512.yaml
 - :code: CSS2
   :stage: REC
   :date: '19980512'
-  :file: data/rec-css2-19980512.yaml
+  :suff: fonts
+  :file: data/rec-css2-19980512_fonts.yaml
 - :code: CSS2
   :stage: CR
   :date: '20090908'
@@ -15039,8 +15039,8 @@
   :file: data/vc-bitstring-status-list.yaml
 - :code: vc-bitstring-status-list
   :stage: WD
-  :date: '20240330'
-  :file: data/wd-vc-bitstring-status-list-20240330.yaml
+  :date: '20240406'
+  :file: data/wd-vc-bitstring-status-list-20240406.yaml
 - :code: vc-data-integrity
   :file: data/vc-data-integrity.yaml
 - :code: vc-data-integrity
