@@ -38,6 +38,46 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
+    id: W3C_-g1793320
+    docid:
+    - id: W3C _:g1793320
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1793320
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1793340
+    docid:
+    - id: W3C _:g1793340
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1793340
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1793360
+    docid:
+    - id: W3C _:g1793360
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1793360
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1793380
+    docid:
+    - id: W3C _:g1793380
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1793380
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3C_-g1793400
     docid:
     - id: W3C _:g1793400
@@ -48,16 +88,6 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1793420
-    docid:
-    - id: W3C _:g1793420
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g1793420
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g1793440
     docid:
     - id: W3C _:g1793440
@@ -65,36 +95,6 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g1793440
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g1793460
-    docid:
-    - id: W3C _:g1793460
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g1793460
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g1793480
-    docid:
-    - id: W3C _:g1793480
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g1793480
-      format: text/plain
-- type: obsoletes
-  bibitem:
-    id: W3C_-g1793520
-    docid:
-    - id: W3C _:g1793520
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g1793520
       format: text/plain
 - type: obsoletes
   bibitem:
