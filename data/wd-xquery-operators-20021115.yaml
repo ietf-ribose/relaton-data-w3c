@@ -68,16 +68,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g1819900
-    docid:
-    - id: W3C _:g1819900
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g1819900
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g1819920
     docid:
     - id: W3C _:g1819920
@@ -108,53 +98,63 @@ relation:
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1820000
+    id: W3C_-g1819980
     docid:
-    - id: W3C _:g1820000
+    - id: W3C _:g1819980
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1820000
+      content: W3C _:g1819980
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1820040
+    id: W3C_-g1820020
     docid:
-    - id: W3C _:g1820040
+    - id: W3C _:g1820020
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1820040
+      content: W3C _:g1820020
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1820080
+    id: W3C_-g1820060
     docid:
-    - id: W3C _:g1820080
+    - id: W3C _:g1820060
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1820080
+      content: W3C _:g1820060
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1820120
+    id: W3C_-g1820100
     docid:
-    - id: W3C _:g1820120
+    - id: W3C _:g1820100
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1820120
+      content: W3C _:g1820100
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1820160
+    id: W3C_-g1820140
     docid:
-    - id: W3C _:g1820160
+    - id: W3C _:g1820140
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1820160
+      content: W3C _:g1820140
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1820180
+    docid:
+    - id: W3C _:g1820180
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1820180
       format: text/plain
 - type: obsoletes
   bibitem:
