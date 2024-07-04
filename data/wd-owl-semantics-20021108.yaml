@@ -70,16 +70,6 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g1805380
-    docid:
-    - id: W3C _:g1805380
-      type: W3C
-      primary: true
-    formattedref:
-      content: W3C _:g1805380
-      format: text/plain
-- type: obsoletes
-  bibitem:
     id: W3C_-g1805400
     docid:
     - id: W3C _:g1805400
@@ -147,6 +137,16 @@ relation:
       primary: true
     formattedref:
       content: W3C _:g1805520
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1805540
+    docid:
+    - id: W3C _:g1805540
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1805540
       format: text/plain
 - type: obsoletes
   bibitem:
