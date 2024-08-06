@@ -58,6 +58,86 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
+    id: W3C_-g1892600
+    docid:
+    - id: W3C _:g1892600
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892600
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1892620
+    docid:
+    - id: W3C _:g1892620
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892620
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1892640
+    docid:
+    - id: W3C _:g1892640
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892640
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1892660
+    docid:
+    - id: W3C _:g1892660
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892660
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1892680
+    docid:
+    - id: W3C _:g1892680
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892680
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1892720
+    docid:
+    - id: W3C _:g1892720
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892720
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1892760
+    docid:
+    - id: W3C _:g1892760
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892760
+      format: text/plain
+- type: obsoletes
+  bibitem:
+    id: W3C_-g1892800
+    docid:
+    - id: W3C _:g1892800
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C _:g1892800
+      format: text/plain
+- type: obsoletes
+  bibitem:
     id: W3CWD-speech-synthesis-20020405
     docid:
     - id: W3C WD-speech-synthesis-20020405
@@ -72,7 +152,5 @@ series:
     format: text/plain
   number: WD-speech-synthesis-20021202
 doctype: technicalReport
-editorialgroup:
-- name: Voice Browser Working Group
 ext:
   schema-version: v1.0.0
