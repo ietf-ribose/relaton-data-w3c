@@ -21,7 +21,7 @@ docstatus:
   stage:
     value: recommendation
 relation:
-- type: instance
+- type: hasEdition
   bibitem:
     id: W3CREC-payment-request-20220908
     docid:
@@ -30,6 +30,16 @@ relation:
       primary: true
     formattedref:
       content: W3C REC-payment-request-20220908
+      format: text/plain
+- type: instance
+  bibitem:
+    id: W3CCRD-payment-request-20240807
+    docid:
+    - id: W3C CRD-payment-request-20240807
+      type: W3C
+      primary: true
+    formattedref:
+      content: W3C CRD-payment-request-20240807
       format: text/plain
 - type: hasEdition
   bibitem:
