@@ -48,73 +48,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g1102060
+    id: W3C_-g3601540
     docid:
-    - id: W3C _:g1102060
+    - id: W3C _:g3601540
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1102060
+      content: W3C _:g3601540
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1102080
+    id: W3C_-g3601560
     docid:
-    - id: W3C _:g1102080
+    - id: W3C _:g3601560
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1102080
+      content: W3C _:g3601560
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1102100
+    id: W3C_-g3601580
     docid:
-    - id: W3C _:g1102100
+    - id: W3C _:g3601580
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1102100
+      content: W3C _:g3601580
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1102120
+    id: W3C_-g3601600
     docid:
-    - id: W3C _:g1102120
+    - id: W3C _:g3601600
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1102120
+      content: W3C _:g3601600
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1102140
+    id: W3C_-g3601620
     docid:
-    - id: W3C _:g1102140
+    - id: W3C _:g3601620
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1102140
+      content: W3C _:g3601620
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1102180
+    id: W3C_-g3601660
     docid:
-    - id: W3C _:g1102180
+    - id: W3C _:g3601660
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1102180
+      content: W3C _:g3601660
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g1102220
+    id: W3C_-g3601700
     docid:
-    - id: W3C _:g1102220
+    - id: W3C _:g3601700
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g1102220
+      content: W3C _:g3601700
       format: text/plain
 - type: obsoletes
   bibitem:
