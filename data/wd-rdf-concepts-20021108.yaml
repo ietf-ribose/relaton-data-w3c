@@ -50,63 +50,63 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g7527520
+    id: W3C_-g7528600
     docid:
-    - id: W3C _:g7527520
+    - id: W3C _:g7528600
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g7527520
+      content: W3C _:g7528600
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g7527540
+    id: W3C_-g7528620
     docid:
-    - id: W3C _:g7527540
+    - id: W3C _:g7528620
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g7527540
+      content: W3C _:g7528620
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g7527560
+    id: W3C_-g7528640
     docid:
-    - id: W3C _:g7527560
+    - id: W3C _:g7528640
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g7527560
+      content: W3C _:g7528640
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g7527580
+    id: W3C_-g7528660
     docid:
-    - id: W3C _:g7527580
+    - id: W3C _:g7528660
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g7527580
+      content: W3C _:g7528660
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g7527620
+    id: W3C_-g7528700
     docid:
-    - id: W3C _:g7527620
+    - id: W3C _:g7528700
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g7527620
+      content: W3C _:g7528700
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g7527660
+    id: W3C_-g7528740
     docid:
-    - id: W3C _:g7527660
+    - id: W3C _:g7528740
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g7527660
+      content: W3C _:g7528740
       format: text/plain
 - type: obsoletes
   bibitem:

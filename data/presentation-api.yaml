@@ -23,13 +23,13 @@ docstatus:
 relation:
 - type: instance
   bibitem:
-    id: W3CCRD-presentation-api-20240823
+    id: W3CCRD-presentation-api-20241008
     docid:
-    - id: W3C CRD-presentation-api-20240823
+    - id: W3C CRD-presentation-api-20241008
       type: W3C
       primary: true
     formattedref:
-      content: W3C CRD-presentation-api-20240823
+      content: W3C CRD-presentation-api-20241008
       format: text/plain
 - type: hasEdition
   bibitem:
