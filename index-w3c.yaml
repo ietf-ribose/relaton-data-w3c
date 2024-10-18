@@ -4797,8 +4797,8 @@
   :file: data/dapt.yaml
 - :code: dapt
   :stage: WD
-  :date: '20241011'
-  :file: data/wd-dapt-20241011.yaml
+  :date: '20241017'
+  :file: data/wd-dapt-20241017.yaml
 - :code: dapt
   :stage: WD
   :date: '20240412'
@@ -8328,6 +8328,10 @@
 - :code: i18n-glossary
   :file: data/i18n-glossary.yaml
 - :code: i18n-glossary
+  :type: NOTE
+  :date: '20241017'
+  :file: data/note-i18n-glossary-20241017.yaml
+- :code: i18n-glossary
   :type: DNOTE
   :date: '20240422'
   :file: data/dnote-i18n-glossary-20240422.yaml
@@ -8776,8 +8780,8 @@
   :file: data/input-events-2.yaml
 - :code: input-events-2
   :stage: WD
-  :date: '20240925'
-  :file: data/wd-input-events-2-20240925.yaml
+  :date: '20241018'
+  :file: data/wd-input-events-2-20241018.yaml
 - :code: input-events-2
   :stage: WD
   :date: '20240109'
@@ -8800,6 +8804,10 @@
   :file: data/wd-input-events-2-20170905.yaml
 - :code: international-specs
   :file: data/international-specs.yaml
+- :code: international-specs
+  :type: NOTE
+  :date: '20241017'
+  :file: data/note-international-specs-20241017.yaml
 - :code: international-specs
   :type: DNOTE
   :date: '20240321'
@@ -14294,6 +14302,8 @@
   :stage: WD
   :date: '20130321'
   :file: data/wd-runtime-20130321.yaml
+- :code: S6Group2
+  :file: data/s6group2.yaml
 - :code: SAC
   :file: data/sac.yaml
 - :code: SAC
@@ -15821,9 +15831,9 @@
 - :code: string-meta
   :file: data/string-meta.yaml
 - :code: string-meta
-  :type: DNOTE
-  :date: '20240718'
-  :file: data/dnote-string-meta-20240718.yaml
+  :type: NOTE
+  :date: '20241017'
+  :file: data/note-string-meta-20241017.yaml
 - :code: string-meta
   :type: DNOTE
   :date: '20240418'
@@ -19418,8 +19428,8 @@
   :file: data/webgpu.yaml
 - :code: webgpu
   :stage: WD
-  :date: '20241009'
-  :file: data/wd-webgpu-20241009.yaml
+  :date: '20241018'
+  :file: data/wd-webgpu-20241018.yaml
 - :code: webgpu
   :stage: WD
   :date: '20240608'
@@ -20225,8 +20235,8 @@
   :file: data/wgsl.yaml
 - :code: WGSL
   :stage: WD
-  :date: '20241009'
-  :file: data/wd-wgsl-20241009.yaml
+  :date: '20241018'
+  :file: data/wd-wgsl-20241018.yaml
 - :code: WGSL
   :stage: WD
   :date: '20240606'
