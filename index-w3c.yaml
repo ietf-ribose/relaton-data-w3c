@@ -1832,8 +1832,8 @@
   :file: data/cr-core-aam-1.2-20221122.yaml
 - :code: core-aam-1.2
   :stage: CRD
-  :date: '20241015'
-  :file: data/crd-core-aam-1.2-20241015.yaml
+  :date: '20241114'
+  :file: data/crd-core-aam-1.2-20241114.yaml
 - :code: core-aam-1.2
   :stage: CRD
   :date: '20231102'
@@ -5040,8 +5040,8 @@
   :file: data/device-posture.yaml
 - :code: device-posture
   :stage: WD
-  :date: '20241029'
-  :file: data/wd-device-posture-20241029.yaml
+  :date: '20241115'
+  :file: data/wd-device-posture-20241115.yaml
 - :code: device-posture
   :stage: WD
   :date: '20240605'
@@ -7370,8 +7370,8 @@
   :file: data/hani-lreq.yaml
 - :code: hani-lreq
   :type: DNOTE
-  :date: '20241114'
-  :file: data/dnote-hani-lreq-20241114.yaml
+  :date: '20241115'
+  :file: data/dnote-hani-lreq-20241115.yaml
 - :code: hash-in-uri
   :file: data/hash-in-uri.yaml
 - :code: hash-in-uri
@@ -9065,8 +9065,8 @@
   :file: data/jpan-lreq.yaml
 - :code: jpan-lreq
   :type: DNOTE
-  :date: '20241114'
-  :file: data/dnote-jpan-lreq-20241114.yaml
+  :date: '20241115'
+  :file: data/dnote-jpan-lreq-20241115.yaml
 - :code: jsgf
   :file: data/jsgf.yaml
 - :code: jsgf
@@ -9233,8 +9233,8 @@
   :file: data/kore-lreq.yaml
 - :code: kore-lreq
   :type: DNOTE
-  :date: '20241114'
-  :file: data/dnote-kore-lreq-20241114.yaml
+  :date: '20241115'
+  :file: data/dnote-kore-lreq-20241115.yaml
 - :code: laoo-gap
   :file: data/laoo-gap.yaml
 - :code: laoo-gap
@@ -10704,8 +10704,8 @@
   :file: data/mong-lreq.yaml
 - :code: mong-lreq
   :type: DNOTE
-  :date: '20241114'
-  :file: data/dnote-mong-lreq-20241114.yaml
+  :date: '20241115'
+  :file: data/dnote-mong-lreq-20241115.yaml
 - :code: motion-1
   :file: data/motion-1.yaml
 - :code: motion-1
@@ -13491,8 +13491,8 @@
   :file: data/rdf12-concepts.yaml
 - :code: rdf12-concepts
   :stage: WD
-  :date: '20241107'
-  :file: data/wd-rdf12-concepts-20241107.yaml
+  :date: '20241114'
+  :file: data/wd-rdf12-concepts-20241114.yaml
 - :code: rdf12-concepts
   :stage: WD
   :date: '20240502'
@@ -16880,8 +16880,8 @@
   :file: data/typography.yaml
 - :code: typography
   :type: DNOTE
-  :date: '20241101'
-  :file: data/dnote-typography-20241101.yaml
+  :date: '20241115'
+  :file: data/dnote-typography-20241115.yaml
 - :code: typography
   :type: DNOTE
   :date: '20240322'

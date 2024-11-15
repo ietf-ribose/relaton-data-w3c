@@ -1,28 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-device-posture-20241029
+id: W3CWD-rdf12-concepts-20241114
 title:
-- content: Device Posture API
+- content: RDF 1.2 Concepts and Abstract Syntax
   format: text/plain
 link:
-- content: https://www.w3.org/TR/2024/WD-device-posture-20241029/
+- content: https://www.w3.org/TR/2024/WD-rdf12-concepts-20241114/
   type: src
-- content: https://w3c.github.io/device-posture/
+- content: https://w3c.github.io/rdf-concepts/spec/
   type: current
 type: standard
 docid:
-- id: W3C WD-device-posture-20241029
+- id: W3C WD-rdf12-concepts-20241114
   type: W3C
   primary: true
-docnumber: WD-device-posture-20241029
+docnumber: WD-rdf12-concepts-20241114
 date:
 - type: published
-  value: '2024-10-29'
+  value: '2024-11-14'
 contributor:
 - person:
     name:
       completename:
-        content: Alexis Menard
+        content: Andy Seaborne
         language:
         - en
         script:
@@ -32,7 +32,7 @@ contributor:
 - person:
     name:
       completename:
-        content: Diego Gonzalez-Zuniga
+        content: Gregg Kellogg
         language:
         - en
         script:
@@ -42,14 +42,24 @@ contributor:
 - person:
     name:
       completename:
-        content: Kenneth Christiansen
+        content: Olaf Hartig
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2024-10-29'
+- person:
+    name:
+      completename:
+        content: Pierre-Antoine Champin
+        language:
+        - en
+        script:
+        - Latn
+  role:
+  - type: editor
+revdate: '2024-11-14'
 language:
 - en
 script:
@@ -60,21 +70,19 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-device-posture-20241007
+    id: W3CWD-rdf12-concepts-20241107
     docid:
-    - id: W3C WD-device-posture-20241007
+    - id: W3C WD-rdf12-concepts-20241107
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-device-posture-20241007
+      content: W3C WD-rdf12-concepts-20241107
       format: text/plain
 series:
 - title:
     content: W3C WD
     format: text/plain
-  number: WD-device-posture-20241029
+  number: WD-rdf12-concepts-20241114
 doctype: technicalReport
-editorialgroup:
-- name: Devices and Sensors Working Group
 ext:
   schema-version: v1.0.0
