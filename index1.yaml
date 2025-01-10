@@ -30326,11 +30326,6 @@
     :date: '20240916'
   :file: data/rec-geolocation-20240916.yaml
 - :id:
-    :code: clreq-gap
-    :type: DNOTE
-    :date: '20240919'
-  :file: data/dnote-clreq-gap-20240919.yaml
-- :id:
     :code: webxr-depth-sensing-1
     :stage: WD
     :date: '20240923'
@@ -30756,11 +30751,6 @@
     :date: '20241114'
   :file: data/dnote-java-lreq-20241114.yaml
 - :id:
-    :code: trusted-types
-    :stage: WD
-    :date: '20241121'
-  :file: data/wd-trusted-types-20241121.yaml
-- :id:
     :code: timezone
     :type: DNOTE
     :date: '20241122'
@@ -30836,20 +30826,15 @@
     :date: '20241115'
   :file: data/dnote-kore-lreq-20241115.yaml
 - :id:
-    :code: jpan-gap
-    :type: DNOTE
-    :date: '20241129'
-  :file: data/dnote-jpan-gap-20241129.yaml
-- :id:
-    :code: gpc
-    :stage: WD
-    :date: '20241203'
-  :file: data/wd-gpc-20241203.yaml
-- :id:
     :code: epub-a11y-tech-11
     :type: NOTE
     :date: '20241203'
   :file: data/note-epub-a11y-tech-11-20241203.yaml
+- :id:
+    :code: jpan-gap
+    :type: DNOTE
+    :date: '20241129'
+  :file: data/dnote-jpan-gap-20241129.yaml
 - :id:
     :code: webnn
     :stage: CRD
@@ -31056,11 +31041,6 @@
     :date: '20241219'
   :file: data/crd-core-aam-1.2-20241219.yaml
 - :id:
-    :code: rdf12-concepts
-    :stage: WD
-    :date: '20241219'
-  :file: data/wd-rdf12-concepts-20241219.yaml
-- :id:
     :code: rdf12-n-quads
     :stage: WD
     :date: '20241219'
@@ -31080,11 +31060,6 @@
     :stage: WD
     :date: '20241219'
   :file: data/wd-rdf12-trig-20241219.yaml
-- :id:
-    :code: rdf12-turtle
-    :stage: WD
-    :date: '20241219'
-  :file: data/wd-rdf12-turtle-20241219.yaml
 - :id:
     :code: rdf12-xml
     :stage: WD
@@ -31176,11 +31151,6 @@
     :date: '20250102'
   :file: data/crd-vc-di-eddsa-20250102.yaml
 - :id:
-    :code: did-extensions
-    :type: NOTE
-    :date: '20250102'
-  :file: data/note-did-extensions-20250102.yaml
-- :id:
     :code: controller-document
     :stage: WD
     :date: '20250103'
@@ -31225,6 +31195,36 @@
     :type: NOTE
     :date: '20250109'
   :file: data/note-vc-overview-20250109.yaml
+- :id:
+    :code: clreq-gap
+    :type: DNOTE
+    :date: '20250109'
+  :file: data/dnote-clreq-gap-20250109.yaml
+- :id:
+    :code: rdf12-concepts
+    :stage: WD
+    :date: '20250109'
+  :file: data/wd-rdf12-concepts-20250109.yaml
+- :id:
+    :code: rdf12-turtle
+    :stage: WD
+    :date: '20250109'
+  :file: data/wd-rdf12-turtle-20250109.yaml
+- :id:
+    :code: gpc
+    :stage: WD
+    :date: '20250109'
+  :file: data/wd-gpc-20250109.yaml
+- :id:
+    :code: trusted-types
+    :stage: WD
+    :date: '20250110'
+  :file: data/wd-trusted-types-20250110.yaml
+- :id:
+    :code: did-extensions
+    :type: NOTE
+    :date: '20250110'
+  :file: data/note-did-extensions-20250110.yaml
 - :id:
     :code: cyrl-gap
   :file: data/cyrl-gap.yaml
@@ -31367,9 +31367,6 @@
     :code: kore-lreq
   :file: data/kore-lreq.yaml
 - :id:
-    :code: gpc
-  :file: data/gpc.yaml
-- :id:
     :code: openscreen-application
   :file: data/openscreen-application.yaml
 - :id:
@@ -31394,9 +31391,6 @@
     :code: css-display-4
   :file: data/css-display-4.yaml
 - :id:
-    :code: did-extensions
-  :file: data/did-extensions.yaml
-- :id:
     :code: string-search
   :file: data/string-search.yaml
 - :id:
@@ -31405,3 +31399,9 @@
 - :id:
     :code: vc-overview
   :file: data/vc-overview.yaml
+- :id:
+    :code: gpc
+  :file: data/gpc.yaml
+- :id:
+    :code: did-extensions
+  :file: data/did-extensions.yaml

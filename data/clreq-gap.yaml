@@ -20,13 +20,13 @@ script:
 relation:
 - type: instance
   bibitem:
-    id: W3CDNOTE-clreq-gap-20240919
+    id: W3CDNOTE-clreq-gap-20250109
     docid:
-    - id: W3C DNOTE-clreq-gap-20240919
+    - id: W3C DNOTE-clreq-gap-20250109
       type: W3C
       primary: true
     formattedref:
-      content: W3C DNOTE-clreq-gap-20240919
+      content: W3C DNOTE-clreq-gap-20250109
       format: text/plain
 - type: hasEdition
   bibitem:
