@@ -48,73 +48,73 @@ docstatus:
 relation:
 - type: obsoletes
   bibitem:
-    id: W3C_-g12220740
+    id: W3C_-g12265960
     docid:
-    - id: W3C _:g12220740
+    - id: W3C _:g12265960
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g12220740
+      content: W3C _:g12265960
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g12220760
+    id: W3C_-g12265980
     docid:
-    - id: W3C _:g12220760
+    - id: W3C _:g12265980
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g12220760
+      content: W3C _:g12265980
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g12220780
+    id: W3C_-g12266000
     docid:
-    - id: W3C _:g12220780
+    - id: W3C _:g12266000
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g12220780
+      content: W3C _:g12266000
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g12220820
+    id: W3C_-g12266040
     docid:
-    - id: W3C _:g12220820
+    - id: W3C _:g12266040
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g12220820
+      content: W3C _:g12266040
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g12220840
+    id: W3C_-g12266060
     docid:
-    - id: W3C _:g12220840
+    - id: W3C _:g12266060
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g12220840
+      content: W3C _:g12266060
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g12220880
+    id: W3C_-g12266100
     docid:
-    - id: W3C _:g12220880
+    - id: W3C _:g12266100
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g12220880
+      content: W3C _:g12266100
       format: text/plain
 - type: obsoletes
   bibitem:
-    id: W3C_-g12220920
+    id: W3C_-g12266140
     docid:
-    - id: W3C _:g12220920
+    - id: W3C _:g12266140
       type: W3C
       primary: true
     formattedref:
-      content: W3C _:g12220920
+      content: W3C _:g12266140
       format: text/plain
 - type: obsoletes
   bibitem:
