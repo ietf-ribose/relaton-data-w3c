@@ -1,26 +1,28 @@
 ---
 schema-version: v1.2.3
-id: W3CWD-FileAPI-20130912
+id: W3CNOTE-epub-overview-33-20250121
 title:
-- content: File API
+- content: EPUB 3 Overview
   format: text/plain
 link:
-- content: http://www.w3.org/TR/2013/WD-FileAPI-20130912/
+- content: https://www.w3.org/TR/2025/NOTE-epub-overview-33-20250121/
   type: src
+- content: https://w3c.github.io/epub-specs/epub33/overview/
+  type: current
 type: standard
 docid:
-- id: W3C WD-FileAPI-20130912
+- id: W3C NOTE-epub-overview-33-20250121
   type: W3C
   primary: true
-docnumber: WD-FileAPI-20130912
+docnumber: NOTE-epub-overview-33-20250121
 date:
 - type: published
-  value: '2013-09-12'
+  value: '2025-01-21'
 contributor:
 - person:
     name:
       completename:
-        content: Arun Ranganathan
+        content: Ivan Herman
         language:
         - en
         script:
@@ -30,39 +32,34 @@ contributor:
 - person:
     name:
       completename:
-        content: Jonas Sicking
+        content: Matt Garrish
         language:
         - en
         script:
         - Latn
   role:
   - type: editor
-revdate: '2013-09-12'
+revdate: '2025-01-21'
 language:
 - en
 script:
 - Latn
-docstatus:
-  stage:
-    value: workingDraft
 relation:
 - type: obsoletes
   bibitem:
-    id: W3CWD-FileAPI-20121025
+    id: W3CNOTE-epub-overview-33-20231221
     docid:
-    - id: W3C WD-FileAPI-20121025
+    - id: W3C NOTE-epub-overview-33-20231221
       type: W3C
       primary: true
     formattedref:
-      content: W3C WD-FileAPI-20121025
+      content: W3C NOTE-epub-overview-33-20231221
       format: text/plain
 series:
 - title:
-    content: W3C WD
+    content: W3C NOTE
     format: text/plain
-  number: WD-FileAPI-20130912
-doctype: technicalReport
-editorialgroup:
-- name: Web Applications Working Group
+  number: NOTE-epub-overview-33-20250121
+doctype: groupNote
 ext:
   schema-version: v1.0.0
